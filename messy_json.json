@@ -1,0 +1,205 @@
+{
+  "customers": [
+    {
+      "id": "CUST-001",
+      "name": "John Smith",
+      "contact": {
+        "email": "john.smith@example.com",
+        "phone": "555-1234",
+        "address": {
+          "street": "123 Main St",
+          "city": "Springfield",
+          "state": "IL",
+          "zip": "62701"
+        }
+      },
+      "registration": "2023-01-15T10:30:00",
+      "status": "ACTIVE",
+      "purchases": [
+        {
+          "id": "ORD-101",
+          "date": "2023-02-01",
+          "items": [
+            {"name": "Laptop", "price": "$1,299.99", "qty": 1, "category": "electronics"},
+            {"name": "Mouse", "price": "25.50", "qty": 2, "category": "Electronics"}
+          ],
+          "total": "$1,350.99",
+          "payment_method": "credit_card"
+        },
+        {
+          "id": "ORD-102",
+          "date": "03/15/2023",
+          "items": [
+            {"name": "Book: Python Programming", "price": 45.99, "qty": 1, "category": "Books"}
+          ],
+          "total": 45.99
+        }
+      ],
+      "loyalty_points": 1500
+    },
+    {
+      "id": "CUST-002",
+      "name": "jane doe",
+      "contact": {
+        "email": "JANE.DOE@EXAMPLE.COM",
+        "phone": "(555) 5678",
+        "address": {
+          "street": "456 Oak Ave",
+          "city": "springfield",
+          "state": "il",
+          "zip": 62702
+        }
+      },
+      "registration": "01/20/2023",
+      "status": "active",
+      "purchases": [
+        {
+          "id": "ORD-201",
+          "date": "2023-02-10T14:25:00Z",
+          "items": [
+            {"name": "Desk Chair", "price": "250", "qty": "1", "category": "furniture"}
+          ],
+          "total": 250.00,
+          "payment_method": "PayPal"
+        }
+      ],
+      "loyalty_points": "250"
+    },
+    {
+      "id": 3,
+      "name": "Bob Johnson",
+      "contact": {
+        "email": "bob@incomplete",
+        "phone": null,
+        "address": {
+          "city": "Chicago",
+          "state": "IL"
+        }
+      },
+      "registration": "2023-03-01",
+      "status": "INACTIVE",
+      "purchases": [],
+      "loyalty_points": 0
+    },
+    {
+      "id": "CUST-004",
+      "name": "Alice Williams",
+      "contact": {
+        "email": "alice.williams@example.com",
+        "phone": "555.9012",
+        "address": null
+      },
+      "registration": "2023-01-05T08:00:00.000Z",
+      "status": "Active",
+      "purchases": [
+        {
+          "id": "ORD-401",
+          "date": "02/15/2023",
+          "items": [
+            {"name": "Smart Watch", "price": 399.99, "qty": 1, "category": "Electronics"},
+            {"name": "Watch Band", "price": "$29.99", "qty": 2}
+          ],
+          "total": "459.97"
+        },
+        {
+          "id": "ORD-402",
+          "date": "2023-04-01",
+          "items": [
+            {"name": "T-Shirt", "price": 19.99, "qty": 3, "category": "Clothing"},
+            {"name": "Jeans", "price": "$59.99", "qty": 1, "category": "clothing"}
+          ],
+          "total": 119.96,
+          "payment_method": "debit_card"
+        },
+        {
+          "id": "ORD-403",
+          "date": "2023-05-20T16:45:00",
+          "items": [
+            {"name": "Garden Tools Set", "price": 89.99, "qty": 1, "category": "Home & Garden"}
+          ],
+          "total": "$89.99"
+        }
+      ],
+      "loyalty_points": 850
+    },
+    {
+      "id": "CUST-005",
+      "name": "Charlie Brown",
+      "contact": {
+        "email": "",
+        "phone": "555-3456"
+      },
+      "registration": "2023-02-28",
+      "status": "pending",
+      "purchases": null,
+      "loyalty_points": null
+    },
+    {
+      "name": "David Lee",
+      "contact": {
+        "email": "david.lee@example.com",
+        "phone": "5559999",
+        "address": {
+          "street": "789 Elm St",
+          "city": "Naperville",
+          "state": "IL",
+          "zip": "60540"
+        }
+      },
+      "registration": "2023-04-10",
+      "status": "ACTIVE",
+      "purchases": [
+        {
+          "id": "ORD-601",
+          "date": "2023-04-15",
+          "items": [
+            {"name": "4K TV", "price": "1,899.99", "qty": 1, "category": "electronics"},
+            {"name": "HDMI Cable", "price": 15.99, "qty": 2, "category": "Electronics"}
+          ],
+          "total": 1931.97,
+          "payment_method": "Credit Card"
+        }
+      ],
+      "loyalty_points": 2000
+    },
+    {
+      "id": "CUST-007",
+      "name": "Eva Martinez",
+      "contact": {
+        "email": "eva@example.com",
+        "phone": "555-7777",
+        "address": {
+          "street": "321 Pine Rd",
+          "city": "Peoria",
+          "state": "IL",
+          "zip": "61602"
+        }
+      },
+      "registration": "2023-03-20",
+      "status": "active",
+      "purchases": [
+        {
+          "date": "2023-03-25",
+          "items": [
+            {"name": "Coffee Maker", "price": 79.99, "qty": 1, "category": "Home & Garden"}
+          ],
+          "total": 79.99
+        },
+        {
+          "id": "ORD-702",
+          "date": "2023-04-30",
+          "items": [
+            {"name": "Novel: Mystery", "price": "$12.99", "qty": 3, "category": "books"}
+          ],
+          "total": "38.97"
+        }
+      ],
+      "loyalty_points": 150
+    }
+  ],
+  "metadata": {
+    "export_date": "2023-06-01",
+    "version": "1.2",
+    "source": "CRM System"
+  }
+}

@@ -1,0 +1,9 @@
+customer_id,churn_date,churned
+CUST_001,,0
+CUST_002,2024-12-01,1
+CUST_003,,0
+CUST_004,,0
+CUST_005,2024-11-15,1
+CUST_006,,0
+CUST_007,,0
+CUST_008,,0

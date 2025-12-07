@@ -1,0 +1,7 @@
+customer_id,name,email,phone,registration_date,status,purchase_count,total_spent,value_score
+001,,john.smith@example.com,555-1234,2023-01-15,active,2,201.49,41.3881004730495
+002,,jane.doe@example.com,555-5678,2023-01-20,active,1,250.0,26.66067026450796
+003,,,,2023-03-01,inactive,0,0.0,0.0
+4,,alice.williams@example.com,555-9012,2023-01-05,active,3,749.99,79.98161103337998
+005,,,555-3456,2023-02-28,pending,0,0.0,0.0
+MISSING_5,,david.lee@example.com,555-9999,2023-04-10,active,1,1250.75,66.66666666666666

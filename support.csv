@@ -1,0 +1,16 @@
+support_id,customer_id,contact_date,issue_type,resolution_time_hours,satisfaction_score
+SUP001,CUST_001,2024-02-01,Technical Issue,2.5,4
+SUP002,CUST_002,2024-02-15,Billing Question,1.0,5
+SUP003,CUST_003,2024-03-01,Product Return,3.5,3
+SUP004,CUST_001,2024-03-15,technical issue,4.0,2
+SUP005,CUST_004,2024-04-01,Billing Question,1.5,5
+SUP006,CUST_005,2024-04-10,TECHNICAL ISSUE,5.0,1
+SUP007,CUST_002,2024-05-01,Product Return,2.0,4
+SUP008,CUST_003,2024-05-15,billing question,1.0,5
+SUP009,CUST_006,2024-06-01,Technical Issue,3.0,3
+SUP010,CUST_001,2024-06-15,Product Return,2.5,4
+SUP011,CUST_007,2024-07-01,Billing Question,1.5,5
+SUP012,CUST_004,2024-07-15,technical issue,4.5,2
+SUP013,CUST_005,2024-08-01,Product Return,3.0,3
+SUP014,CUST_002,2024-08-15,BILLING QUESTION,1.0,5
+SUP015,CUST_003,2024-09-01,Technical Issue,2.5,4

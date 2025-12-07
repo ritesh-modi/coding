@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customer_data>
+    <customer id="001">
+        <name>John Smith</name>
+        <email>john.smith@example.com</email>
+        <phone>555-1234</phone>
+        <registration_date>2023-01-15</registration_date>
+        <purchase_history>
+            <purchase>
+                <date>2023-02-01</date>
+                <amount>$125.50</amount>
+                <category>Electronics</category>
+            </purchase>
+            <purchase>
+                <date>2023-03-15</date>
+                <amount>75.99</amount>
+                <category>Books</category>
+            </purchase>
+        </purchase_history>
+        <status>active</status>
+    </customer>
+    
+    <customer id="002">
+        <name>Jane Doe</name>
+        <email>JANE.DOE@EXAMPLE.COM</email>
+        <phone>(555) 5678</phone>
+        <registration_date>01/20/2023</registration_date>
+        <purchase_history>
+            <purchase>
+                <date>2023-02-10</date>
+                <amount>$250</amount>
+            </purchase>
+        </purchase_history>
+        <status>Active</status>
+    </customer>
+    
+    <customer id="003">
+        <name>Bob Johnson</name>
+        <email>bob@example</email>
+        <registration_date>2023-03-01</registration_date>
+        <purchase_history></purchase_history>
+        <status>inactive</status>
+    </customer>
+    
+    <customer id="4">
+        <name>Alice Williams</name>
+        <email>alice.williams@example.com</email>
+        <phone>555.9012</phone>
+        <registration_date>2023-01-05</registration_date>
+        <purchase_history>
+            <purchase>
+                <date>02/15/2023</date>
+                <amount>500.00</amount>
+                <category>electronics</category>
+            </purchase>
+            <purchase>
+                <date>2023-04-01</date>
+                <amount>$99.99</amount>
+                <category>Clothing</category>
+            </purchase>
+            <purchase>
+                <date>2023-05-20</date>
+                <amount>150</amount>
+                <category>Home &amp; Garden</category>
+            </purchase>
+        </purchase_history>
+        <status>ACTIVE</status>
+    </customer>
+    
+    <customer id="005">
+        <name>Charlie Brown</name>
+        <email></email>
+        <phone>555-3456</phone>
+        <registration_date>2023-02-28</registration_date>
+        <status>pending</status>
+    </customer>
+    
+    <customer>
+        <name>David Lee</name>
+        <email>david.lee@example.com</email>
+        <phone>5559999</phone>
+        <registration_date>2023-04-10</registration_date>
+        <purchase_history>
+            <purchase>
+                <date>2023-04-15</date>
+                <amount>1,250.75</amount>
+                <category>Electronics</category>
+            </purchase>
+        </purchase_history>
+        <status>active</status>
+    </customer>
+</customer_data>

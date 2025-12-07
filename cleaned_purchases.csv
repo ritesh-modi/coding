@@ -1,0 +1,8 @@
+customer_id,purchase_date,amount,category
+001,2023-02-01,125.5,Electronics
+001,2023-03-15,75.99,Books
+002,2023-02-10,250.0,Uncategorized
+4,2023-02-15,500.0,Electronics
+4,2023-04-01,99.99,Clothing
+4,2023-05-20,150.0,Home & Garden
+MISSING_5,2023-04-15,1250.75,Electronics

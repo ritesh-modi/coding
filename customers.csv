@@ -1,0 +1,9 @@
+customer_id,name,email,signup_date,age,city,state
+CUST_001,John Doe,john.doe@email.com,2023-06-15,28,New York,NY
+CUST_002,Jane Smith,jane.smith@EMAIL.COM,2023-07-20,35,Los Angeles,CA
+CUST_003,Bob Johnson,bob.j@email.com,2023-08-10,42,Chicago,IL
+CUST_004,Alice Williams,alice.w@email.com,2023-09-05,31,  Houston  ,TX
+CUST_005,Charlie Brown,charlie.b@email.com,2023-10-12,29,Phoenix,AZ
+CUST_006,Diana Prince,diana.p@EMAIL.com,2023-11-18,38,Philadelphia,PA
+CUST_007,Eve Davis,eve.davis@email.com,2023-12-22,45,San Antonio,TX
+CUST_008,Frank Miller,frank.m@email.com,2024-01-15,33,San Diego,CA
